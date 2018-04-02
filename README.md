@@ -64,17 +64,8 @@
 
 #### 《计算几何：算法与应用》 ####
 
-<h2 id = "4">SQL学习 </h2>
+<h2 id = "4"><link href = "">SQL学习 </link></h2>
 
-
-#### SQL基础 ####
-
-
-
-#### SQL高级 ####
-
-
-#### SQL函数 ####
 
 <h2 id = "5"> VBA学习</h2>
 #### VBA基础语法 ####
@@ -89,6 +80,7 @@
 
 + [C#操作Access数据库](https://github.com/lixin-heart/ComputerSystem/blob/master/SpectrumPrediction/2018-3-28-C%23%E6%93%8D%E4%BD%9CAccess%E6%95%B0%E6%8D%AE%E5%BA%93.md)
 
+- [C#控件Chart画图](https://github.com/lixin-heart/ComputerSystem/blob/master/SpectrumPrediction/2018-3-28-C%23%E6%8E%A7%E4%BB%B6Chart%E7%94%BB%E5%9B%BE.md)
 
 
 
