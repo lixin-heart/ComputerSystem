@@ -24,7 +24,7 @@
 
 [5 VBA学习](#5)
 
-[6 实例](#6)
+[6 频谱方向](#6)
 
 
 <h2 id = "1.1">计算机原理 </h2>
@@ -77,7 +77,7 @@
 
 - 
 
-<h2 id = "6">频谱预测平台(C#)</h2>
+<h2 id = "6">频谱方向</h2>
 
 + [C#操作Access数据库](https://github.com/lixin-heart/ComputerSystem/blob/master/SpectrumPrediction/2018-3-28-C%23%E6%93%8D%E4%BD%9CAccess%E6%95%B0%E6%8D%AE%E5%BA%93.md)
 
