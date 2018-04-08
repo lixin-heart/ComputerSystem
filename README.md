@@ -83,7 +83,7 @@
 
 <h2 id = "6">频谱方向</h2>
 
-+ [C#操作Access数据库](SpectrumPrediction/2018-3-28-C#操作Access数据库.md)
++ [C#操作Access数据库](SpectrumPrediction/2018-3-28-C%23控件Chart画图.md)
 
 - [C#控件Chart画图](SpectrumPrediction/2018-3-28-C#控件Chart画图.md)
 - [C# 导出word文件](SpectrumPrediction/2018-4-3-C# 导出word文件.md)
