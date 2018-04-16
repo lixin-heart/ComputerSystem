@@ -70,13 +70,20 @@
 
 
 
-## 频谱方向
+## 编程实例
+
+#### 频谱方向
 
 + [C#操作Access数据库](SpectrumPrediction/2018-3-28-C%23控件Chart画图.md)
 
 - [C#控件Chart画图](SpectrumPrediction/2018-3-28-C%23控件Chart画图.md)
 - [C# 导出word文件](SpectrumPrediction/2018-4-3-C%23%20导出word文件.md)
 
+
+#### HAPS仿真
+
+- [C语言教程](http://www.runoob.com/cprogramming/c-tutorial.html)
+- ​
 
 
 
